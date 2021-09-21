@@ -4,5 +4,5 @@
 </p>
 # Credit
 <p>
-All credit and information for this build can be found [HERE]: https://www.youtube.com/watch?v=UzKX75aiBjM&ref=morioh.com&utm_source=morioh.com
+All credit and information for this build can be found [Link to Google](https://www.google.com)
 </p>
