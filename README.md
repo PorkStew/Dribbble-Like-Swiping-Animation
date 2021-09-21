@@ -4,6 +4,5 @@
 </p>
 # Credit
 <p>
-All credit and information for this build can be found http://github.com - automatic!
-[GitHub](http://github.com)
+All credit and information for this build can be found https://www.youtube.com/watch?v=UzKX75aiBjM
 </p>
