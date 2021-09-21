@@ -4,5 +4,6 @@
 </p>
 # Credit
 <p>
-All credit and information for this build can be found [Link to Google](https://www.google.com)
+All credit and information for this build can be found http://github.com - automatic!
+[GitHub](http://github.com)
 </p>
